@@ -112,6 +112,7 @@ footer li a:hover {color: white;}
 }
 .submenu a:hover {
 				background-color: #468486;
+	display: block;
 }
 
 
