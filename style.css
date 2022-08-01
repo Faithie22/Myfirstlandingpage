@@ -95,7 +95,8 @@ footer li a {
 footer li a:hover {color: white;}
 
 .submenu {
-				left: 50%;
+				display: none;
+	left: 50%;
 				transform: (-50%, 0);
 				text-align: center;
 				position: absolute;
